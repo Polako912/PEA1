@@ -1,0 +1,4 @@
+﻿  BruteForce.cpp
+c:\users\asus\documents\visual studio 2017\projects\pea1\pea1\bruteforce.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\pea1\pea1\bruteforce.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  PEA1.vcxproj -> C:\Users\asus\Documents\Visual Studio 2017\Projects\PEA1\Debug\PEA1.exe
